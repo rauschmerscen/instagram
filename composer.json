@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
         "php-http/client-implementation": "^1.0",
         "php-http/discovery": "^1.4",
         "php-http/httplug": "^2.0",
